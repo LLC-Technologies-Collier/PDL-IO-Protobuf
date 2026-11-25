@@ -1,8 +1,9 @@
 Changes
-lib/PDL/IO/Protobuf.pm
-Makefile.PL
 MANIFEST
 MANIFEST.SKIP
+Makefile.PL
 README.md
+examples/quickstart.pl
+lib/PDL/IO/Protobuf.pm
 t/00-load.t
 t/01-roundtrip.t
